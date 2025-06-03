@@ -1,0 +1,5 @@
+streamlit
+chromdb
+pypdf2
+openai
+requests
