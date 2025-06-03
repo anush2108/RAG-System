@@ -35,17 +35,18 @@ streamlit run app.py
 
 🖼️ Landing Page:  ![6ddea8fa-fec2-4b27-b4bc-94b1e0acb926](https://github.com/user-attachments/assets/fdee1db0-ebfa-48bc-9d94-3ec0bf37d0c1)
 
-<img width="1728" alt="Screenshot 2025-04-10 at 12 59 31 AM" src="https://github.ibm.com/Anush-A/llm-learning/assets/500280/6ddea8fa-fec2-4b27-b4bc-94b1e0acb926">
 
-📂 Upload PDF Interface : <img width="1728" alt="Screenshot 2025-04-10 at 10 08 24 AM" src="https://github.ibm.com/Anush-A/llm-learning/assets/500280/24506ca8-bef6-4eb9-9dc7-8da18179ffd6">
-
-
-📂 PDF Uploaded: <img width="1722" alt="Screenshot 2025-04-10 at 10 08 57 AM" src="https://github.ibm.com/Anush-A/llm-learning/assets/500280/db370fe3-903e-43b1-84c8-a8c59e4b25d2">
-
-💬 Ask Questions: <img width="1728" alt="Screenshot 2025-04-10 at 10 09 20 AM" src="https://github.ibm.com/Anush-A/llm-learning/assets/500280/c13560ca-7ff2-4d70-9644-65ecaa64f177">
+📂 Upload PDF Interface : ![24506ca8-bef6-4eb9-9dc7-8da18179ffd6](https://github.com/user-attachments/assets/9f88c7b3-87be-4707-a435-6d3858bdfc34)
 
 
-📋 Answers & Source Context: <img width="1720" alt="Screenshot 2025-04-10 at 10 09 41 AM" src="https://github.ibm.com/Anush-A/llm-learning/assets/500280/bb801404-65c7-4ffc-b8c9-2fe9ca83629d">
+📂 PDF Uploaded: ![db370fe3-903e-43b1-84c8-a8c59e4b25d2](https://github.com/user-attachments/assets/61d626d0-322e-496b-b561-1c3aa8350350)
+
+
+💬 Ask Questions: ![c13560ca-7ff2-4d70-9644-65ecaa64f177](https://github.com/user-attachments/assets/dc014566-e2a5-4dbc-b49f-37f9232b6df2)
+
+
+📋 Answers & Source Context: ![bb801404-65c7-4ffc-b8c9-2fe9ca83629d](https://github.com/user-attachments/assets/fa2c2658-cc9b-438d-89c1-253f60cf76d5)
+
 
 <h3>📦 Project Structure</h3>
 
