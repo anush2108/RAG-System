@@ -33,7 +33,9 @@ streamlit run app.py
 
 <h3>📸 Screenshots:</h3>
 
-🖼️ Landing Page:  <img width="1728" alt="Screenshot 2025-04-10 at 12 59 31 AM" src="https://github.ibm.com/Anush-A/llm-learning/assets/500280/6ddea8fa-fec2-4b27-b4bc-94b1e0acb926">
+🖼️ Landing Page:  ![6ddea8fa-fec2-4b27-b4bc-94b1e0acb926](https://github.com/user-attachments/assets/fdee1db0-ebfa-48bc-9d94-3ec0bf37d0c1)
+
+<img width="1728" alt="Screenshot 2025-04-10 at 12 59 31 AM" src="https://github.ibm.com/Anush-A/llm-learning/assets/500280/6ddea8fa-fec2-4b27-b4bc-94b1e0acb926">
 
 📂 Upload PDF Interface : <img width="1728" alt="Screenshot 2025-04-10 at 10 08 24 AM" src="https://github.ibm.com/Anush-A/llm-learning/assets/500280/24506ca8-bef6-4eb9-9dc7-8da18179ffd6">
 
